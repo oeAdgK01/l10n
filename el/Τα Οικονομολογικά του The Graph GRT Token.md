@@ -1,8 +1,5 @@
 # Τα Οικονομολογικά του The Graph GRT Token
 
-**Συντάκτρια Αγγλικού Άρθρου**: [Tegan Kline](https://twitter.com/theklineventure)
-**Ημερομηνία**: 24 Σεπτεμβρίου 2020
-
 _Μια επισκόπηση του Δικτύου The Graph, κίνητρα για την παροχή υπηρεσιών ευρετηρίου και επιμέλειας και το πώς μπορείτε να συνεισφέρετε._
 
 Το [The Graph](https://thegraph.com/) είναι ένα πρωτόκολλο για την οργάνωση δεδομένων blockchain και για την εύκολη πρόσβαση σε αυτό. Τροφοδοτεί πολλές από τις πιο γνώστες εφαρμογές στην αποκεντρωμένη οικονομία (DeFi) και το ευρύτερο οικοσύστημα Web3 σήμερα. Ο καθένας μπορεί να δημιουργήσει και να δημοσιεύσει υπογράφους, τα οποία είναι ανοιχτά API στα οποία οι εφαρμογές μπορούν να υποβάλουν ερωτήματα χρησιμοποιώντας την GraphQL. Οι υπογράφοι διευκολύνουν τους προγραμματιστές να αναπτύσουν πάνω σε blockchains. Οτι κάνει το Google για αναζήτηση, κάνει το The Graph για τα blockchains.
@@ -112,4 +109,14 @@ _Όλοι αυτοί οι μηχανισμοί σε συνδυασμό έχου�
 
 Αναζητήστε περισσότερες πληροφορίες σχετικά με το πώς μπορείτε να συμμετάσχετε στα επερχόμενα προγράμματά μας εγγράφοντας στο [ενημερωτικό δελτίο](https://thegraph.com/#newsletter), συμμετέχοντας στο [Discord](https://thegraph.com/discord) ή το [Telegram](https://t.me/GraphProtocol) και ακολουθώντας μας στο [Twitter](https://twitter.com/graphprotocol). Μπορείτε επίσης να δείτε το ιστολόγιό μας για ενημερώσεις.
 
-Μεταφραστές: [Donald A. Iljazi](https://twitter.com/oeadgk01), [Iason Andreou](https://twitter.com/jasonrises)
+---
+
+**Πρωτότυπο Άρθρο (Αγγλική)**: [The Graph GRT Token Economics](https://thegraph.com/blog/the-graph-grt-token-economics)
+
+**Συντάκτρια Πρωτότυπου Άρθρου**: [Tegan Kline](https://twitter.com/theklineventure)
+
+**Ημερομηνία Συγγραφής Πρωτότυπου Άρθρου**: 24 Σεπτεμβρίου 2020
+
+**Μεταφραστές**: [Donald A. Iljazi](https://twitter.com/oeadgk01), [Iason Andreou](https://twitter.com/jasonrises)
+
+**Ημερομηνία Μετάφρασης**: 26 Οκτωβρίου
