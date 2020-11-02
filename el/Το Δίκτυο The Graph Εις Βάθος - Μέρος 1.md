@@ -1,3 +1,7 @@
+# Το Δίκτυο The Graph Εις Βάθος - Μέρος 1
+
+![The Graph Network - Part 1](https://storage.googleapis.com/graph-web/the-graph-network-part1.jpg)
+
 Όταν παρουσιάσαμε για πρώτη φορά το Graph τον Ιούλιο του περασμένου έτους, μοιραστήκαμε το όραμά μας για τη δημιουργία ενός αποκεντρωμένου πρωτοκόλλου ευρετηρίου για το Web3. Η ομάδα έχει δουλέψει σκληρά και σήμερα είμαι ενθουσιασμένος που μοιράζομαι λεπτομερώς τον σχεδιασμό της πρώτης έκδοσης του αποκεντρωμένου δικτύου The Graph. Το Δίκτυο Graph είναι βασική υποδομή για το Web3 - ένα απαραίτητο στοιχείο για την παροχή αποκεντρωμένων εφαρμογών με υψηλή απόδοση προς τον καταναλωτή.
 
 Για αυτό το άρθρο, προϋποτίθεται κάποια προηγούμενη εξοικείωση με το The Graph. Εάν δεν έχετε ακούσει ποτέ για το The Graph, ένα εξαιρετικό μέρος για να ξεκινήσετε είναι η [δημοσίευση ανακοινώσεων](https://medium.com/graphprotocol/introducing-the-graph-4a281b28203e), τα [έγγραφά](https://thegraph.com/docs/introduction#what-the-graph-is) μας ή [πολλά](https://medium.com/melonprotocol/graphing-the-melon-protocol-fdcbbc0475b5) εξαιρετικά [άρθρα](https://unlock-protocol.com/blog/the-graph-blog-post) από την κοινότητά μας.
