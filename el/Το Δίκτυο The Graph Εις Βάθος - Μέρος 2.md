@@ -1,3 +1,7 @@
+# Το Δίκτυο The Graph Εις Βάθος - Μέρος 2
+
+![The Graph Network - Part 2](https://storage.googleapis.com/graph-web/the-graph-network-part2.jpg)
+
 Αυτό είναι το δεύτερο μέρος ενός διμερούς άρθρου που εξερευνά το σχεδιασμό του Δικτύου The Graph. Μπορείτε να διαβάσετε το [πρώτο μέρος](https://github.com/oeAdgK01/l10n/blob/main/el/%CE%A4%CE%BF%20%CE%94%CE%AF%CE%BA%CF%84%CF%85%CE%BF%20The%20Graph%20%CE%95%CE%B9%CF%82%20%CE%92%CE%AC%CE%B8%CE%BF%CF%82%20-%20%CE%9C%CE%AD%CF%81%CE%BF%CF%82%201.md) εδώ.
 
 Στο πρώτο άρθρο δώσαμε μια γενική εικόνα του τι είναι το Δίκτυο The Graph και πώς λειτουργεί σε υψηλό επίπεδο.
